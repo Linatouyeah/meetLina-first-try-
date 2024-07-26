@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         //Add code here
         ZStack{
-            Color(.systemPink)
+            Color(.systemGreen)
                     .ignoresSafeArea()
             VStack {
                 Image(systemName: "heart")
